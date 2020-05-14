@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/build/
+/build_32/
+/build_64/
+/_CPack_Packages/
+
+
+*.zip
+*.exe
