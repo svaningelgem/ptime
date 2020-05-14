@@ -10,8 +10,7 @@ rem --> Defaults: -64bit -Release
 
 
 rem Global configuration variables. Should be update based on your system
-SET VISUAL_STUDIO_HOME=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC
-SET VISUAL_STUDIO_NAME=Visual Studio 16 2019
+SET VISUAL_STUDIO_NAME=Visual Studio 14 2015
 SET CMAKE_HOME=C:\Program Files\CMake
 
 rem First parameter is project folder path
